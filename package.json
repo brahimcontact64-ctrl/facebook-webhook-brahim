@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Facebook Webhook Server for Brahim",
   "main": "index.js",
-  "type": "module",
+  
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^2.2.1",
-    "express": "^5.2.1"
+    "express": "^4.18.2"
   }
 }
